@@ -1,0 +1,42 @@
+.heading {
+  font-family: "Roboto";
+  font-size: 24px;
+  color: black;
+  text-align: center;
+}
+
+.text-message {
+  font-family: "Roboto";
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.information-box {
+  display: flex;
+  margin: 10px;
+  background-color: #0b69ff;
+}
+
+.success-box {
+  display: flex;
+  margin: 10px;
+  background-color: #2dca73;
+}
+
+.warning-box {
+  display: flex;
+  margin: 10px;
+  background-color: #ffb800;
+}
+
+.error-box {
+  display: flex;
+  margin: 10px;
+  background-color: #ff0b37;
+}
+
+.image {
+  padding: 10px;
+  height: 20px;
+  width: 20px;
+}
